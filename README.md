@@ -61,7 +61,7 @@ and how to protect yourself against someone that is indeed trying to harm you!
 
 ### Running the program on startup (Only in Windows)
 
-Create shortcut of the `aexe.exe` in the startup folder. In this way, no one will notice anything and the program will run as soon as the user logs in to their acount. You can find the startup folder by typing the combination Win + R and running the next command:
+Create shortcut of the `aexe.exe` in the startup folder. In this way, no one will notice anything and the program will run as soon as the user logs in to their acount. You can find the startup folder by typing the combination `Win + R` and running the next command:
 
 ```
 shell:startup
