@@ -59,7 +59,15 @@ Now you have everything to prank your friends and do your own "responsible" thin
 The following section describes an scenario of how would you attempt to install this malicious software in your victim's machine. Follow the story and understand the steps. Also, you may learn something 
 and how to protect yourself against someone that is indeed trying to harm you!
 
-### Infecting the target machine
+### Running the program on startup (Only in Windows
+
+Create shortcut of the `aexe.exe` in the startup folder. In this way, no one will notice anything and the program will run as soon as the user logs in to their acount. You can find the startup folder by typing the combination Win + R and running the next command:
+
+```
+shell:startup
+```
+
+### Infecting the target machine 
 
 Section comming soon... for now, imagine you got some time alone with your victim's computer while he/she went to the bathroom. You just need a few minutes to do your things...
 
@@ -69,14 +77,6 @@ Section comming soon... for now, imagine you got some time alone with your victi
 
 To use this program in a target machine, you would like to install this keylogger in their system. **We encourage you to try this in a virtual machine first before attempting to do it in a real device.** 
 How would you infect a machine with this program?
-
-### (For Window) Running the program on startup
-
-Create shortcut of the `aexe.exe` in the startup folder. In this way, no one will notice anything and the program will run as soon as the user logs in to their acount. You can find the startup folder by typing the combination Win + R and running the next command:
-
-```
-shell:startup
-```
 
 ### (For linux) A background daemon
 
