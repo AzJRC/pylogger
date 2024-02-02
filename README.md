@@ -48,7 +48,7 @@ password = "your google apps password"
 
 You may change those lines with your own credentials. *TIP: Do not pass your personal Google Account Credentials there because, even if the code is encrypted, there are lots of intelligent people out 
 there with amazing skills to reverse engineer a program. However, if you are just testing and being curious, you can do it in your own system. Better if you do it in Virtual Machines!*
-Now that you have everything setup, compile the program again and check if you received the email in your Google Account!
+Now that you have everything setup, compile the program again and check if you received the email in your Google Account!*
 
 *Note: The password is not your actual password. You must go to your Google Account > Security > Apps passwords and generate a token there. That token will work like your password, so be careful with that.*
 
