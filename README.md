@@ -59,7 +59,7 @@ Now you have everything to prank your friends and do your own "responsible" thin
 The following section describes an scenario of how would you attempt to install this malicious software in your victim's machine. Follow the story and understand the steps. Also, you may learn something 
 and how to protect yourself against someone that is indeed trying to harm you!
 
-### Running the program on startup (Only in Windows
+### Running the program on startup (Only in Windows)
 
 Create shortcut of the `aexe.exe` in the startup folder. In this way, no one will notice anything and the program will run as soon as the user logs in to their acount. You can find the startup folder by typing the combination Win + R and running the next command:
 
